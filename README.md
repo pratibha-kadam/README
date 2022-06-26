@@ -13,7 +13,7 @@
  
  👩‍🏫 Freelance trainer for NGS, Proteomics, RNA seq, Python and R
 
-  📩 Pop a question about analysis of ### Next generation sequencing, Whole genome Sequencing, RNA sequencing, Python, R
+  📩 Pop a question about analysis of <b> Next generation sequencing, Whole genome Sequencing, RNA sequencing, Python, R</b>
  
   🤝 Ready for project collabrations! Reach me pratibhakadam94@gmail.com
   
