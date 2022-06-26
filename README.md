@@ -25,8 +25,6 @@
 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="22" width="22" />
 </a>
   
- 
-      I
 
  
  
