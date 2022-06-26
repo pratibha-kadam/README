@@ -5,13 +5,13 @@
 
  ✔ I have worked with Whole genome sequencing data
  
- ✔ I have deal with Nanpore sequencer
+ ✔ Dealt with Nanpore sequencer
  
- I🕵️‍♀️ I'm currently working with RNA sequencing data of Homo Sapiens and WGS data of mycobacterium tuberculosis.
+ 🕵️‍♀️ Currently working with RNA sequencing data of Homo Sapiens and WGS data of mycobacterium tuberculosis.
  
- 👾 I'm currently learning data data visualization using R
+ 👾 Currently learning data visualization using R
  
- 👩‍🏫 I'm a freelance trainer for NGS, Proteomics, RNA seq, Python and R
+ 👩‍🏫 Freelance trainer for NGS, Proteomics, RNA seq, Python and R
 
   📩 Pop a question about analysis of ### Next generation sequencing, Whole genome Sequencing, RNA sequencing, Python, R
  
@@ -22,13 +22,12 @@
  
 <a href="https://www.linkedin.com/in/pratibhakadam">
 <img align="left"alt-"Mitul's LinkedN"width="22px"
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"height="22"width="22" />
+src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" height="22" width="22" />
 </a>
   
-      I
- <a href="Your ID URL Link" target="blank"><img align="left"src="https://cdn.jsdelivr.net/npm/simple
-icons@3.0.1/icons/youtube.svg"height="22"width="22"/></a>
  
+      I
+
  
  
  
