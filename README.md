@@ -15,7 +15,7 @@
 
   📩 Pop a question about analysis of <b> Next generation sequencing, Whole genome Sequencing, RNA sequencing, Python, R</b>
  
-  🤝 Ready for project collabrations! Reach me pratibhakadam94@gmail.com
+  🤝 For project collabrations! Reach me pratibhakadam94@gmail.com
   
   
   ## Contact me
